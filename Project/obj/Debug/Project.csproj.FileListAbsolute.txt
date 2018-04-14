@@ -1,0 +1,13 @@
+c:\Users\dhara\source\repos\Project\Project\bin\Debug\Project.exe.config
+c:\Users\dhara\source\repos\Project\Project\bin\Debug\Project.exe
+c:\Users\dhara\source\repos\Project\Project\bin\Debug\Project.pdb
+c:\Users\dhara\source\repos\Project\Project\bin\Debug\SharpUpdate.dll
+c:\Users\dhara\source\repos\Project\Project\bin\Debug\SharpUpdate.pdb
+c:\Users\dhara\source\repos\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+c:\Users\dhara\source\repos\Project\Project\obj\Debug\Project.Form1.resources
+c:\Users\dhara\source\repos\Project\Project\obj\Debug\Project.Properties.Resources.resources
+c:\Users\dhara\source\repos\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+c:\Users\dhara\source\repos\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+c:\Users\dhara\source\repos\Project\Project\obj\Debug\Project.csproj.CopyComplete
+c:\Users\dhara\source\repos\Project\Project\obj\Debug\Project.exe
+c:\Users\dhara\source\repos\Project\Project\obj\Debug\Project.pdb
